@@ -13,15 +13,15 @@ F
 Privado
 Hospital Japones
 Ana Maria
-20-04-2025
-0
+13-01-1980
+45
 F
 0 RH+
 Privado
 Hospital Japones
 Lucas
-13-01-2025
-0
+10-05-2001
+24
 F
 ORH+
 Privado
@@ -33,7 +33,7 @@ M
 O RH +
 Privado
 Hospital Japones
-Aaaa
+Andres
 12-03-2021
 4
 M
@@ -47,3 +47,17 @@ M
 ORH+
 Privado
 Hospital de la mujer
+Domingo Savio
+08-05-2013
+12
+M
+ORH +
+Privado
+Hospital de la mujer
+Ñeca Añez
+23-03-2001
+24
+M
+0RH-
+Público
+Hospital Japonés
